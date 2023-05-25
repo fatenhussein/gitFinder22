@@ -1,2 +1,3 @@
 # gitFinde22 pages
-https://fatenhussein.github.io/gitFinder22/
+https://fatenhussein.github.io/githubFinder/
+
